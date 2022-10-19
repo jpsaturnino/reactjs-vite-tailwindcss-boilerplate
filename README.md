@@ -22,7 +22,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit jpsaturnino/reactjs-vite-tailwindcss-boilerplate
+npx degit jpsaturnino/reactjs-vite-tailwindcss-boilerplate app-name
 ```
 
 Access the project directory.
