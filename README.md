@@ -22,7 +22,7 @@ This project uses many tools like:
 Create the project.
 
 ```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
+npx degit jpsaturnino/reactjs-vite-tailwindcss-boilerplate
 ```
 
 Access the project directory.
